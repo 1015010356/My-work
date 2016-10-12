@@ -1,0 +1,60 @@
+/* CSS Document */
+*{
+	 color:#009;
+}
+p{
+	color:#0f0;
+	font-size:19px;
+}
+b{
+	font-size:20px;
+	text-align:center;
+	color:rgb(255,0,0);
+	font-style:oblique;
+}
+#box{
+	  height:300px;
+	  background-image:url(images/flower.jpg);
+	  line-height:300px;
+	  background-repeat:no-repeat;
+	  background-attachment:fixed;
+                         
+}
+a{
+	text-decoration:none;
+	font-size:36px;
+	color:#F00;
+}
+a:hover{
+	      text-decoration:line-through;
+		  color:#0FF;
+}
+#er{
+	   font:italic bold 38px/50px "黑体";
+	   color:#0C6;
+	   font-weight:900;
+}
+#re{
+	   border:dashed 30px #f00;
+	   width:200px;
+	   height:200px;
+	   font-size:36px;
+	   color:#00F;
+	   font-weight:600;
+}
+.ddf{
+	   text-indent:98px;
+	   
+	   letter-spacing:30px;
+}
+.ffd{
+	  word-spacing:20px;
+}
+#eee{
+	   list-style-image:url(images/share.gif);
+	   size:38px;
+}
+#rrr{
+	   list-style:none;
+	   size:38px;
+}
