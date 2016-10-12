@@ -1,0 +1,22 @@
+/* CSS Document */
+*{margin:0;padding:0;}
+ul,li,ol{list-style:none;}
+a{text-decoration:none;}
+
+.nav{height:42px;background:url(../images/01_03.png) repeat-x;width:989px;margin:10tpx auto;}
+ul li{float:left;line-height:42px;padding-left:24px;padding-right:24px;background:url(../images/border_03.png) no-repeat right center}
+ul li a{color:#fff;}
+
+
+/*#box{width:400px;height:150px;overflow:auto;}
+.over{width:200px;height:150px;float:left;overflow:inherit;}*/
+	.first{width:160px; white-space:pre;}
+	.two{width:160px; white-space:nowrap;}
+	.three{width:160px;height:160px; white-space:pre-line;border-top-left-radius:15px;
+border-top-right-radius:15px;
+border-bottom-left-radius:15px;
+border-bottom-right-radius:15px;
+border-radius:15px;
+background:#0F3;
+}
+.border{border:5px solid #fff;width:0;height:0;border-bottom-color:#00F;overflow:hidden;font-size:0;}
