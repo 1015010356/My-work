@@ -1,0 +1,31 @@
+ CSS Document */
+#box{
+	  width:988px;
+	  height:1002px;
+	  color:#00F;
+	  margin-left:100px;
+}
+#logo{
+	   height:128px;
+	    margin-left:100px;
+
+	   }
+#titt{
+	   height:43px;
+	    margin-left:100px;
+	   }
+#main{
+	   height:420px;
+	    margin-left:100px;
+
+}
+#back{
+	   height:260px;
+	    margin-left:100px;
+	  
+}
+#last{
+	 margin-left:100px;
+	
+
+}

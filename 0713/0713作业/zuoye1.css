@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+#box{
+	width:999px;
+	height:1499px;
+	background-color:#999;
+}
+#abba{
+	height:99px;
+	background-color:#F00;
+}
+#abbb{
+	height:58px;
+}
+#abbc{
+	height:466px;
+	background-color:#0F0;
+}
+#abbd{
+	height:544px;
+	background-color:#00F;
+}
+#abbe{
+	height:336px;
+	background-color:#0FF;
+}

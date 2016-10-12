@@ -1,0 +1,36 @@
+/* CSS Document */
+
+/*div{width:500px;height:200px; background-color:#F00; margin:100px 0 0 200px}*/
+
+.box{
+	width:200px;
+	height:100px;
+	background-color:#F00;
+    }
+.bos{
+	width:300px;
+	background-color:#00F;
+    }
+/*#sqpz{
+	width:200px;
+	height:200px;
+	background-color:#0FF;
+	position:absolute;
+	margin:100px 0 0 500px;
+     }*/
+.bos,.box,{
+	            width:100px;
+				height:100px;
+				background-color:#006;
+}
+#top{
+	  color:#F00;}
+/*div b{
+	   color:#CF0;
+       size:20px;
+	   }*/
+a{color:#0F0;}
+a:hover{color:#FF0}
+.bos:hover{color:#FF0}
+
+
